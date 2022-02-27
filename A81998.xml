@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short meditations on, with a briefe description of the life and death of Oliver Cromwell. Written by J.D. Durnovariæ.</title>
+            <author>Durnovariæ, J. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81998</idno>
+            <idno type="STC">Wing D44</idno>
+            <idno type="STC">Thomason E1082_1</idno>
+            <idno type="STC">ESTC R207940</idno>
+            <idno type="EEBO-CITATION">99866955</idno>
+            <idno type="PROQUEST">99866955</idno>
+            <idno type="VID">119244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119244)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1082[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short meditations on, with a briefe description of the life and death of Oliver Cromwell. Written by J.D. Durnovariæ.</title>
+                  <author>Durnovariæ, J. D.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.M. for Robert Clavel at the Stags-head in St. Pauls Church yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "feb. 11 1660", "1660 Feb. 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119244:1" rendition="simple:additions"/>
+            <head>Short Meditations on, with a briefe Deſcription of the Life and Death of <hi>Oliver Cromwell.</hi>
+            </head>
+            <byline>
+               <hi>Written by</hi> J. D. Durnovariae.</byline>
+            <p>SEtlement in a Kingdome whoſe Foundations are out of order, is as truly deſirable, as a Propitious Harbour to the Marriners that have been long wearied with the furious Rage of Tempeſtious windes, and the proud ſwel<g ref="char:EOLhyphen"/>ling waves of a troubled Sea. To none [except it be to him <hi>qui vivitur ex raptu</hi>] arguments needs be uſed, when the land of his nativity groans under the burden of unnatu<g ref="char:EOLhyphen"/>ral war, and the heavy loads of Tyrannical oppreſſion, to make uſe of this ſhort prayer,
+<q>Da pacem Domine, pacem te poſcimus omnes.</q> Whence that general fire of Contention which lately broke forth in theſe, before that time, moſt happy &amp; glo<g ref="char:EOLhyphen"/>rious kingdomes took its firſt fewell: I ſhall forbear now to enquire into, the flames thereof being kindled e'r I hardly attained <hi>ad etate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> virilem;</hi> but this is evident, that the force thereof was no ſooner blown up, but it found ſufficient matter to feed on, and its violence could not be ſtopt untill the wiſe diſpoſer of all things heard the Cry
+<pb n="2" facs="tcp:119244:2" rendition="simple:additions"/>of the Captives, and let the oppreſſed go free; cauſing the wrath of man to turn to his praiſe, but reſtraining the remainder thereof.</p>
+            <p>Proſperity and Succeſſe in unwarrantable actions, na<g ref="char:EOLhyphen"/>turally heightens up the depraved Spirits of men to more unlawfull attempts; yet ſtill there is a guilt that ſtings the Conſcience, and a fear that poſſeſſeth the ſpirits of thoſe, who are thus animated to make a progreſſe, <hi>à malo ad pe<g ref="char:EOLhyphen"/>jus,</hi> leaſt one time or other vindictive juſtice ſhould draw them before the bar of its Tribunal, which to prevent, they conſult with <hi>Gateline,</hi> and make this their Oracle. The ills that we have done cannot be ſafe without attem<g ref="char:EOLhyphen"/>pting greater.</p>
+            <p>
+               <hi>Simulatae Sanctitas duplex iniquitas.</hi> To make religion a Cloak for Villany, hath been a practiſe, that hath had too long footing in the world, and it is too uſuall, <hi>Quod bonum pretenditur cum malum intenditur. Ahab</hi> proclaims a Faſt before he kils, enters and takes poſſeſſion. <hi>Abſalom</hi> when he aſpires the Crown, pretends the good of the people. <hi>Judas</hi> that betrayed his Maſter, and was a Thief, re<g ref="char:EOLhyphen"/>pines at the coſtly Ointment beſtowed on our Saviour, under colour of taking care for the poore. But the dogs lick the bloud of <hi>Ahab: Abſolom</hi> in his Rebellion is ſtaid under an Oake, by the beautifull Ornament of his Head, till by the hands of <hi>Joab</hi> he receives a juſt recompence of his Rebellion: <hi>Judas</hi> hangs himſelf. And divine Juſtice that not often ſuffers ſuch vildeneſſe to go unpuniſhed, will at length bring every ſecret thing to light, and heap vengeance on ſuch painted ſepulchers according to the evill of their doings.</p>
+            <p>To eſtabliſh iniquity by a law, is to make Juſtice the mother of Injuſtice, and Violence the daughter of that which ſhould be ſacred: <hi>Legu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quaedam veneranda pote<g ref="char:EOLhyphen"/>ſtas!</hi>
+               <pb n="3" facs="tcp:119244:2"/>Words may well be wanting to expreſſe the horrid impiety of thoſe who having broken the laws, make a law for their own impunity in their moſt deteſtable actions, allowing themſelves to give to other reaſon for their en<g ref="char:EOLhyphen"/>ormities but this, <hi>Sic volo ſic jubeo ſcat pro ratione volantas.</hi> when there was no king in <hi>Iſrael,</hi> every man did what was right in his own eys, and the legallity of every mans action was by him judged according to the prompt of his own will, and then as <hi>Tot homines tot ſententiae,</hi> ſo many men as there were, ſo many laws there wore for every man to go<g ref="char:EOLhyphen"/>vern himſelf by, which jarring againſt the common utili<g ref="char:EOLhyphen"/>ty and peace, what confuſion it brought forth, what ſtrange and unheard of impieties it foſtered, Sacred Writ hath left us a ſufficient Record; Luſt then was taken for law, <hi>non hoſpes ab hoſpite tutus,</hi> and men were grown to that impudence, as without the leaſt remorſe in publique view to commit theſe very acts which nature abhors, yea, to juſtifie the offenders, and ſo far to engage for their im<g ref="char:EOLhyphen"/>munity as to hazard the perpetual ruin of a famous tribe.</p>
+            <p>The Devill oft transforms himſelf into an Angel of light, Chriſtians had need be wiſe as Serpents, <hi>Latet anguis in herba;</hi> the biting Serpent lieth under the ſweeteſt herbs, and the moſt prevailing temptations under the moſt ſee<g ref="char:EOLhyphen"/>ming appearances of piety, whereby Dovelike innocency may be for a time miſled, <hi>Humanum eſterrare be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uinum im<g ref="char:EOLhyphen"/>mo diaboli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um perſeverare.</hi> Miſts may for a time darken the ſight, but when they are once removed, there is none ſo blinde as he that can but will not ſee.</p>
+            <p>Juſtice may ſeem to have ſlow feet, but yet it hath lea<g ref="char:EOLhyphen"/>den hands, and becauſe vengeance is not ſpeedily execu<g ref="char:EOLhyphen"/>ted on the evill doer, he thinks he may ſtill go on and proſper, judging his actions by the preſent event, yet ſoo<g ref="char:EOLhyphen"/>ner or later vengeance will overtake him, <hi>Licet pede lenta,
+<pb n="4" facs="tcp:119244:3"/>ſed pede certa,</hi> and my prayer is involved in that of the Poet.
+<q>
+                  <l>—careat ſucceſſibus opto</l>
+                  <l>Quiſquis ab eventu facta notanda putat.</l>
+               </q>
+            </p>
+            <p>Ambition carrieth men beyond all bounds, yet no man ordinarily ſteps but by degrees into the heighth he deſires, and that he may in time accompliſh his intended end, for a time, he conceals his intentioned purpoſes, till an op<g ref="char:EOLhyphen"/>portune ſeaſon profer, that he may ſafely land himſelf on that Harbor, towards which he hath been long ſayling in the ſhip of his affectation; he that uſed policy with his Ambition, is not much unlike the Water-man that looks one way, but rows another. Sometimes that is actived by ſubtilty, which could never have been obtained by force, and very oft it is ſeen, that he that is underminde in pol<g ref="char:EOLhyphen"/>licy will make uſe of force to procure what he deſires, not caring how he attain it, ſo as he have it <hi>per fas aut nefas:</hi> What though kingdoms be ſubverted, Commonwealths confounded, Cities be deſtroyed, and Countries waſted, this ſticks not on the Ambitious mans heart, the Crown is that this <hi>Nimrod</hi> is hunting after.</p>
+            <p>He that Hunts but for Recreation, is ſo intent on his ſport, that he cares not, he fears not; though he break down the fences, it troubles him not, though his poore neighbours corn be trode down with the ſwift motion of his pranderfed galopers, he is no way moved at it, though the turnings and windings of his yelping kennel make a threſhing in the corn ere it come to be cut, what is that to him? Gates, Bars, or Stiles keeps him not in, he leaps them all over, and he accompts both hills and ditches to be as levell ground, and venters to leap, where at another time he ſcarce duſt to craule. The courſe ended or the game gotten, his carreres are ſtopt; and after ſome ſhort pauſe had, he bethinks himſelf of the injury he hath done, and
+<pb n="5" facs="tcp:119244:3"/>findes more trouble for that than content in the purchaſe obtained; what are the hideous Correres of an ambitious ſpirit: when once he hath ſeated himſelf in that to which God and Nature never deſigned him, but he ſtept into by Violence and Rapine! Then he crys out a Kingdome for a quiet ſpirit, Oh the Crown for a good Conſcience; the one I have parted with all, but I ſhall never enjoy it again: the other I would part withall, it is aburden to me now; It is not <hi>honos</hi> but <hi>Onus;</hi> I have it indeed, but it vexeth me, it torments me, horrours in the night affright me; but <hi>hinc illae lachrymae,</hi> to thoſe that are under his tyranny, then he arms himſelf with fury, and more feirce Reſolu<g ref="char:EOLhyphen"/>tions, taking the Councel of <hi>Reaboams</hi> wilde ones, con<g ref="char:EOLhyphen"/>cluding to make his little finger, heavier then the loyns of any of his Predeceſſors.</p>
+            <p>Not to rake up the aſhes of the late extinguiſhed flame, and by Chymiſtry or other art, to finde out their original to our intended purpoſe, it ſhall ſuffice to give you this ſhort accompt; that the fiery-headed &amp; fiery faced <hi>Oliver,</hi> whoſe face was the Index of his mind, before theſe un<g ref="char:EOLhyphen"/>happy diſtractions, having as to the generallity of the kingdom liv'd obſcurely, in the ſadly to be lamented late Domeſtique Wars, got into ſome command, and by de<g ref="char:EOLhyphen"/>grees obtained to be Lievtenant General of the Parlia<g ref="char:EOLhyphen"/>ments Army; at which time his ambitious ſpirit put him upon conſultation, how he having but one ſtep to be head of the Army, might in ſhort time become head of the Kingdome, to which afterwards he arrives, though with the caſting of the whole kingdome into confuſion; being animated to make his progreſs therein by his often proſperous ſucceſſes in the wars, endearing himſelf into the hearts of his ſouldiers, pretending to them Religion and Reformation, when nothing leſſe was intended,
+<pb n="6" facs="tcp:119244:4"/>whereby he ſo far ingratiated himſelf into their affecti<g ref="char:EOLhyphen"/>ons, that being backt with their power, none ſcarce durſt ſay to him what doſt thou.</p>
+            <p>The firſt apparent eſſay he makes to his reign was when an happy concluſion of all miſunderſtandings be<g ref="char:EOLhyphen"/>tween the King and his Parliament, was very likely to have been, Then did his Ambition by the aſſiſtance of <hi>Pride,</hi> diſcard the Members, whoſe reall intentions, and endeavours then were for obtaining a firm and laſting peace; having removed them, as the firſt obſtacle that ſtood in his way, and left none other, but ſuch as were of his own faction, or Phanatiques, or low ſpirited perſons; he beats on them for Juſtice againſt our moſt Gracious Soveraign [whoſe ſacred memory muſt be Glorious to eternity, maugre the malice of his moſt in placable adver<g ref="char:EOLhyphen"/>ſaries] making then Juſtice the mother of Injuſtice, and theſe that had no power to adminiſter an Oath, contrary to their own Oaths of Allegiance, to make an Act for tri<g ref="char:EOLhyphen"/>all of their dread Lord, <hi>O Scelus infandum!</hi> oh that blood thirſty ambition! here the bounds were broken; here was Iniquity eſtabliſhed by a law: Oh the curſed effect of that pernicious act. It brought an Innocent Prince to the Butcherly block. It extinguiſhed his life, and dark<g ref="char:EOLhyphen"/>ned the glory of <hi>England.</hi> Oh where were then our ſpi<g ref="char:EOLhyphen"/>rits, what became of the Engliſh valour, that we could en<g ref="char:EOLhyphen"/>dure that miſcreant with the aſſiſtance of his guards thus to violate the faith of Subjects: and not to reſcue ſo pi<g ref="char:EOLhyphen"/>ous a Prince from ſuch bloody Vilains, ſurely a ſpirit of Cowardize or ſlumber did then overwhelm us.</p>
+            <p>This unparalleld <hi>Regicidium</hi> being acted, he then for<g ref="char:EOLhyphen"/>ceth an Act for taking away Kingly Government, thereby intending the perpetual disinherſion of his moſt gracious Majeſtie that now is (whom God long preſerve;) yet one
+<pb n="7" facs="tcp:119244:4"/>obſtacle more ſtood in his way to be removed, he muſt un<g ref="char:EOLhyphen"/>commiſſionate his General, this was not long effecting, but the Generaliſſimo ſhip ſoon procured to be conferred on him, then had he liberty and opportunity, like <hi>Caeſar,</hi> from a General to be made an Emperor, which by taking all Authority from them, that gave him Commiſſion, he thought the beſt way to accompliſh; yet acts politiquely, not willing his deſigne ſhould be forthwith publiquely known. But after their Diſſolution conveens a few to ſit as a Parliament, who in a few moneths reſign, and gratifie him for their ſhort command, with the Title of a Protect<g ref="char:EOLhyphen"/>or; and now he reigns as <hi>Dominus fac totum.</hi> But had <hi>Zimrie</hi> peace who ſlew his maſter; his haſty motions, his furious and ſometime ghaſtly looks, well ſhewed the hor<g ref="char:EOLhyphen"/>rour of his affrighted Conſcience, whileſt he tyrannized, the three Kingdomes ſatisfied not his humour, but he aſ<g ref="char:EOLhyphen"/>pires after others, as if he would have given this for his motto, <hi>non ſufficit Orbis.</hi> To tell of his inhumanity in his rule would ask a Volume, and it is conceived that at his death, his moſt execrable treaſons ſo affrighted his ſpirits, that his heart within him died firſt, when in others, the heart is <hi>Primum moriens &amp; ultimum vivens.</hi> And in his death-bed, certainly <hi>Saul</hi> was amongſt the Prophets, for then he fortells, that in few moneths, his aſhes ſhould be trampled upon. It might have fared better with him, had he underſtood the intent of that <hi>omen,</hi> which befell him upon his firſt marching in arms out of <hi>Cambridge,</hi> wherein his Horſe threw him directly under the Gallows. But the Corps of him whoſe aſpiring minde, could never be ſatisfied, hath now no other Tombe but a Turf under <hi>Tyburn,</hi> and no other Trophie but the Scituation of the common place of Execution circumfering him. <hi>So let all the Kings Enemies periſh O God.</hi>
+            </p>
+            <pb n="8" facs="tcp:119244:5"/>
+            <p>After his death, what labours were there for a Settle<g ref="char:EOLhyphen"/>ment, his way, that way was tryed, and every ſtone was turned, <hi>England</hi> groaning under more Changes of Go<g ref="char:EOLhyphen"/>vernments, than there are changes of the Moon in one year, but could finde no reſt.</p>
+            <p>The Needle toutcht with the loadſtone, turn it to what point you will, yet will it never be at reſt till it come to the North point; <hi>England</hi> having for above five hundred years enjoyed the happy bleſſings of the prudent and gracious Government of our moſt Sacred Kings moſt Royal Progenitors, in all thoſe Changes it lately ſuffered could never be ſetled, untill God out of his infinite good<g ref="char:EOLhyphen"/>neſſe miraculouſly reſtored our moſt Gracious Soveraign to the peaceable poſſeſſion of his lawfull and undoubted Right in his Imperial Crown and Dignities, Giving him to fit upon the Throne of his Fathers, where God grant he may ever be eſtabliſhed in Peace and Happineſſe, and that his Subjects may render unto <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> Tribute to whom Tribute is due, Honour to whom Honour is due; Obedience, Loyalty and Allegi<g ref="char:EOLhyphen"/>ance to him that of right it appertaineth, that they may ſtill fear God and the King, and not meddle with them that are ſubject to change: Let ſhame cover the heads and faces of all his Adverſaries, but let his Crown flour<g ref="char:EOLhyphen"/>iſh; Let the Girdle of Righteouſneſſe be about his Loyns, let Proſperity be in all his Palaces, let Divine Mercy com<g ref="char:EOLhyphen"/>paſſe him about, let Angells be his Guard, let him be cloa<g ref="char:EOLhyphen"/>thed with Salvation, and let all his Subjects continually pray, <hi>GOD SAVE THE KING.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M.</hi> for <hi>Robert Clavel</hi> at the <hi>Stags<g ref="char:EOLhyphen"/>head</hi> in St. <hi>Pauls</hi> Church Yard, 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
